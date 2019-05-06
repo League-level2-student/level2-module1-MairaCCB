@@ -16,7 +16,7 @@ public class IntroToArrayLists {
 		//3. Print all the Strings using a standard for-loop
 		for(int f = 0; f < weekDays.size(); f++) {
 			String w = weekDays.get(f);
-			System.out.println("String at element " + f + " " + w);
+			System.out.println("String at element: " + f + " " + w);
 			
 		}
 		
